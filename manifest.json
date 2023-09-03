@@ -1,0 +1,14 @@
+{ 
+     "name": "YABDP4Nitro Vendetta", 
+     "description": "na", 
+     "authors": [ 
+         { 
+             "name": "fork", 
+             "id": "1010101010101010" 
+         } 
+     ], 
+     "main": "YABDP4Nitro.plugin.js", 
+     "vendetta": { 
+         "icon": "na" 
+     } 
+ }
